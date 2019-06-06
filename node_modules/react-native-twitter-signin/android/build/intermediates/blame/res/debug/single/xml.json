@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/android/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/d6e1563637354fbd86eab46d8895d893adbc47a8/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/2927eaa1780185ae0236d45c9ae37a4ec36092fe/output/res/xml/preferences.xml"
+    }
+]

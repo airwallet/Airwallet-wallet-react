@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/3db04456fe2068794c021cd90fb607f6e4700a5b/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/2927eaa1780185ae0236d45c9ae37a4ec36092fe/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/3db04456fe2068794c021cd90fb607f6e4700a5b/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/3db04456fe2068794c021cd90fb607f6e4700a5b/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/tw__accelerate_cubic.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/a81542cfce705779bb0179292283421d89f81d4d/output/res/anim/tw__accelerate_cubic.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/3db04456fe2068794c021cd90fb607f6e4700a5b/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/2927eaa1780185ae0236d45c9ae37a4ec36092fe/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/2927eaa1780185ae0236d45c9ae37a4ec36092fe/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/tw__slide_out.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/a81542cfce705779bb0179292283421d89f81d4d/output/res/anim/tw__slide_out.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/tooltip_enter.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/3db04456fe2068794c021cd90fb607f6e4700a5b/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/2927eaa1780185ae0236d45c9ae37a4ec36092fe/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/3db04456fe2068794c021cd90fb607f6e4700a5b/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/3db04456fe2068794c021cd90fb607f6e4700a5b/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/3db04456fe2068794c021cd90fb607f6e4700a5b/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/3db04456fe2068794c021cd90fb607f6e4700a5b/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/tooltip_exit.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/3db04456fe2068794c021cd90fb607f6e4700a5b/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/3db04456fe2068794c021cd90fb607f6e4700a5b/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/2927eaa1780185ae0236d45c9ae37a4ec36092fe/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/3db04456fe2068794c021cd90fb607f6e4700a5b/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/thangnguyen/projects/goldenowl/react-native-twitter-signin/Example/node_modules/react-native-twitter-signin/android/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/thangnguyen/.android/build-cache/2927eaa1780185ae0236d45c9ae37a4ec36092fe/output/res/anim/catalyst_slide_up.xml"
+    }
+]
